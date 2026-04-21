@@ -1,4 +1,4 @@
-# 📱 Social Media Engagement Analytics (Python Project)
+# 📱 Social Media Engagement Analytics using Python
 
 ## 📌 Project Overview
 
@@ -10,11 +10,10 @@
 
 ## 🎯 Objective
 
-- Analyze user engagement across different post types and categories
-- Identify factors influencing likes, comments, and shares
-- Understand audience demographics and behavior
-- Evaluate engagement trends over time
-- Perform statistical and correlation analysis
+- Identify engagement drivers
+- Analyze post performance
+- Study user behavior patterns
+- Optimize content strategy
 
 
 
